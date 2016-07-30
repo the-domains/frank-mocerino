@@ -1,0 +1,28 @@
+name: Frank Mocerino
+favicon: null
+layout_spectrum: 0.9452815030235797
+typography_spectrum: 0.255928342230618
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5050564452540129
+  lightness: 0.13380121369846165
+  saturation: 0.3557455779518932
+  rhythmicContrast: 0.09045894420705736
+purpose: []
